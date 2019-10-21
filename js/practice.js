@@ -1,4 +1,4 @@
-const cities = ['Riyadh', 'Jeddah', 'Boston']
+const cities = ['Riyadh', 'Jeddah', 'Dammam']
 
 cities.forEach( city => console.log(city))
 
