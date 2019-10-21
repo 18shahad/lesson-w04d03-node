@@ -4,6 +4,8 @@ Node.js runs JavaScript code. This means that millions of frontend developers th
 
 For us, that means we can run javascript on our local computers without needing to rely on the browser and eventually we can build web servers with javascript!
 
+let's watch [this video](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
+
 ## Installation
 
 Let's install node together.  In your terminal, run the following command
@@ -46,3 +48,6 @@ We can execute that file with node by running `node js/practice.js` in the termi
 ## NPM (node package manager)
 
 A node package is one or more modules grouped together.  To help us manage our packages node includes a package manager named NPM.  We can use it to install packages globally throughout our whole computer or locally to individual projects.  
+
+[npm video](https://www.youtube.com/watch?v=ZNbFagCBlwo)
+[What is npm?](https://www.w3schools.com/whatis/whatis_npm.asp)
